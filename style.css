@@ -112,3 +112,27 @@ u{
     font-family: "Raleway", sans-serif;
     color: #47494D;
 }
+
+
+@media (max-width: 550px) {
+    
+.div1{
+    width: 100%;
+} 
+}
+
+@media (max-width: 400px) {
+    .container{
+    padding: 10px;
+    padding-bottom: 35px;
+}
+.div1{
+    padding: 0 20px;
+} 
+}
+
+@media (max-width: 320px) {
+.div1{
+    padding: 0 15px;
+} 
+}
